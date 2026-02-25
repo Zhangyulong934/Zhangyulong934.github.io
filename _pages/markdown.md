@@ -7,5 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-{% include toc %}
 
